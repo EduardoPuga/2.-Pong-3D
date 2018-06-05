@@ -1,0 +1,305 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 640M (ID=0xfd2)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   21.21.13.6942
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\lalo_\Documents\MEGA\UMIN\9no Semestre\Desarrollo WEB\Unity\Pong3D\prueba_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.316 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 53.372887 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3c0c -> priority: 1 
+  Thread -> id: 3620 -> priority: 1 
+  Thread -> id: 1be0 -> priority: 1 
+  Thread -> id: 305c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.707228 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.424990 ms (FindLiveObjects: 0.046184 ms CreateObjectMapping: 0.033588 ms MarkObjects: 0.333087 ms  DeleteObjects: 0.010729 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.068233 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.363410 ms (FindLiveObjects: 0.049916 ms CreateObjectMapping: 0.029856 ms MarkObjects: 0.266843 ms  DeleteObjects: 0.015394 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.893365 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.352681 ms (FindLiveObjects: 0.041052 ms CreateObjectMapping: 0.033122 ms MarkObjects: 0.263111 ms  DeleteObjects: 0.014461 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.784202 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.348949 ms (FindLiveObjects: 0.041985 ms CreateObjectMapping: 0.032655 ms MarkObjects: 0.260312 ms  DeleteObjects: 0.013528 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.886368 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.341484 ms (FindLiveObjects: 0.039186 ms CreateObjectMapping: 0.031722 ms MarkObjects: 0.256580 ms  DeleteObjects: 0.013062 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.598531 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.331221 ms (FindLiveObjects: 0.038720 ms CreateObjectMapping: 0.030323 ms MarkObjects: 0.247716 ms  DeleteObjects: 0.013062 ms)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.584118 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 0.471641 ms (FindLiveObjects: 0.048050 ms CreateObjectMapping: 0.040119 ms MarkObjects: 0.353147 ms  DeleteObjects: 0.027990 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.660110 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.387202 ms (FindLiveObjects: 0.040119 ms CreateObjectMapping: 0.035454 ms MarkObjects: 0.294834 ms  DeleteObjects: 0.015394 ms)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.813592 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 0.466509 ms (FindLiveObjects: 0.064844 ms CreateObjectMapping: 0.038720 ms MarkObjects: 0.324224 ms  DeleteObjects: 0.037787 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.667575 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.388602 ms (FindLiveObjects: 0.044784 ms CreateObjectMapping: 0.030789 ms MarkObjects: 0.297633 ms  DeleteObjects: 0.013995 ms)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Collision
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.907827 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 0.481904 ms (FindLiveObjects: 0.057380 ms CreateObjectMapping: 0.046650 ms MarkObjects: 0.349415 ms  DeleteObjects: 0.027057 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.585935 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.493100 ms (FindLiveObjects: 0.043851 ms CreateObjectMapping: 0.039186 ms MarkObjects: 0.390468 ms  DeleteObjects: 0.018193 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.570541 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.401198 ms (FindLiveObjects: 0.044784 ms CreateObjectMapping: 0.031722 ms MarkObjects: 0.313494 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.575206 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.403064 ms (FindLiveObjects: 0.048983 ms CreateObjectMapping: 0.031722 ms MarkObjects: 0.311161 ms  DeleteObjects: 0.010263 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.564476 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.376006 ms (FindLiveObjects: 0.041519 ms CreateObjectMapping: 0.032655 ms MarkObjects: 0.292034 ms  DeleteObjects: 0.008863 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.663376 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.428255 ms (FindLiveObjects: 0.048983 ms CreateObjectMapping: 0.034055 ms MarkObjects: 0.332154 ms  DeleteObjects: 0.011196 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.627921 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 355.
+Total: 0.411927 ms (FindLiveObjects: 0.049450 ms CreateObjectMapping: 0.033122 ms MarkObjects: 0.316759 ms  DeleteObjects: 0.011196 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.610660 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.537885 ms (FindLiveObjects: 0.063911 ms CreateObjectMapping: 0.037320 ms MarkObjects: 0.423590 ms  DeleteObjects: 0.010729 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.745482 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.546749 ms (FindLiveObjects: 0.071842 ms CreateObjectMapping: 0.041052 ms MarkObjects: 0.409128 ms  DeleteObjects: 0.022392 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.692300 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.511760 ms (FindLiveObjects: 0.050849 ms CreateObjectMapping: 0.055981 ms MarkObjects: 0.383004 ms  DeleteObjects: 0.020059 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.623256 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.472107 ms (FindLiveObjects: 0.070909 ms CreateObjectMapping: 0.041985 ms MarkObjects: 0.337752 ms  DeleteObjects: 0.020059 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.856511 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.459511 ms (FindLiveObjects: 0.054581 ms CreateObjectMapping: 0.033588 ms MarkObjects: 0.349882 ms  DeleteObjects: 0.020059 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.724955 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 382.
+Total: 0.475839 ms (FindLiveObjects: 0.060646 ms CreateObjectMapping: 0.029856 ms MarkObjects: 0.348482 ms  DeleteObjects: 0.035454 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.777204 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 357.
+Total: 0.427789 ms (FindLiveObjects: 0.038720 ms CreateObjectMapping: 0.033588 ms MarkObjects: 0.329822 ms  DeleteObjects: 0.024258 ms)
+
